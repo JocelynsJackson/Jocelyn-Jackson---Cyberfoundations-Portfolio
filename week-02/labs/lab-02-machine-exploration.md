@@ -123,9 +123,9 @@ List five processes running right now. For each, write your best guess at what i
 
 | # | Process Name | What I Think It Does |
 | --- | --- | --- |
-| 1 | The 64-bit Synaptics Pointing Enhance Service  | Unsure |
+| 1 | The 64-bit Synaptics Pointing Enhance Service  | Enhances hardware processing |
 | 2 | DiagsCap.exe | Diagnostic tooling |
-| 3 | HP Comm Recovery | Unsure |
+| 3 | HP Comm Recovery | Communicate with aspects of the hardware and OS for quick recovery |
 | 4 | HP System Event Utility | Monitoring events on the device |
 | 5 | Google Updater | Keeps Google up to date |
 
@@ -150,7 +150,7 @@ This step happens directly on GitHub, not through this worksheet — there's no 
 In your own words, explain how the real numbers you found in Part A (OS version, RAM, storage) relate to what you just watched live in Part B. Which number describes hardware, and which describes the OS?
 
 ```
-The OS version, RAM and storage are components tell us about the device(hardware)while the task manager provides a visual representation of what is going on in the OS in real time what applications and background processes are running on the device. From the task manager you are able to see how many system resources are being utilized by each application and process.
+The OS version, RAM, and storage are components that tell us about the device(hardware), while the task manager provides a visual representation of what is going on in the OS in real time what applications and background processes are running on the device. From the Task Manager you are able to see how many system resources are being utilized by each application and process.
 ```
 
 ---
