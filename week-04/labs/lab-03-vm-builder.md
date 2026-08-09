@@ -2,7 +2,7 @@
 
 **Student Name:** Jocelyn Jackson
 
-**Date Completed:**
+**Date Completed:** 08/09/2026
 
 **Module:** 1 — Digital Infrastructure & CLI | **Week:** 4  
 **Submission Path:** `week-04/labs/lab-03-vm-builder.md`
