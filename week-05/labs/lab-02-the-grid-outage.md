@@ -522,41 +522,41 @@ I decided the colleague’s theory was wrong because the test results did not su
 
 ## Submission Checklist
 
-- [ ] Own address and gateway confirmed (Part A, Step 1)
+- [x] Own address and gateway confirmed (Part A, Step 1)
 
-- [ ] Gateway pinged successfully and output recorded (Part A, Step 2)
+- [x] Gateway pinged successfully and output recorded (Part A, Step 2)
 
-- [ ] Baseline reasoning stated — what a healthy baseline rules out (Part A, Step 3)
+- [x] Baseline reasoning stated — what a healthy baseline rules out (Part A, Step 3)
 
-- [ ] `relay-station.grid.local` pinged by name; resolution and packet loss both read (Part B, Steps 1–2)
+- [x] `relay-station.grid.local` pinged by name; resolution and packet loss both read (Part B, Steps 1–2)
 
-- [ ] `dig relay-station.grid.local` run; status and A record recorded (Part B, Step 3)
+- [x] `dig relay-station.grid.local` run; status and A record recorded (Part B, Step 3)
 
-- [ ] `10.20.5.30` pinged directly; output recorded (Part B, Step 4)
+- [x] `10.20.5.30` pinged directly; output recorded (Part B, Step 4)
 
-- [ ] The combined proof of the tests stated in writing (Part B, Step 5)
+- [x] The combined proof of the tests stated in writing (Part B, Step 5)
 
-- [ ] `traceroute relay-station.grid.local` run; last responding hop identified (Part C, Step 1)
+- [x] `traceroute relay-station.grid.local` run; last responding hop identified (Part C, Step 1)
 
-- [ ] `traceroute cloud-heights.grid.local` run; all hops listed in order (Part C, Step 2)
+- [x] `traceroute cloud-heights.grid.local` run; all hops listed in order (Part C, Step 2)
 
-- [ ] The two traces compared and interpreted (Part C, Step 3)
+- [x] The two traces compared and interpreted (Part C, Step 3)
 
-- [ ] `relay-station-old.grid.local` tested and its exact error recorded (Part D, Step 1)
+- [x] `relay-station-old.grid.local` tested and its exact error recorded (Part D, Step 1)
 
-- [ ] Explained why the decoy is a different kind of failure (Part D, Step 2)
+- [x] Explained why the decoy is a different kind of failure (Part D, Step 2)
 
-- [ ] Reply to the colleague drafted, grounded in evidence (Part D, Step 3)
+- [x] Reply to the colleague drafted, grounded in evidence (Part D, Step 3)
 
-- [ ] Control test run against a healthy host before escalating (Part D, Step 4)
+- [x] Control test run against a healthy host before escalating (Part D, Step 4)
 
-- [ ] **REQUIRED:** `cli-grid-outage.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part D, Step 5)
+- [x] **REQUIRED:** `cli-grid-outage.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part D, Step 5)
 
-- [ ] Incident note complete — what's broken, evidence, ruled out, next step (Part E, Steps 1–4)
+- [x] Incident note complete — what's broken, evidence, ruled out, next step (Part E, Steps 1–4)
 
-- [ ] All four Analysis Questions answered (minimum sentence counts met)
+- [x] All four Analysis Questions answered (minimum sentence counts met)
 
-- [ ] This file is committed to your portfolio repo at `week-05/labs/lab-02-the-grid-outage.md`
+- [x] This file is committed to your portfolio repo at `week-05/labs/lab-02-the-grid-outage.md`
 
 ---
 
