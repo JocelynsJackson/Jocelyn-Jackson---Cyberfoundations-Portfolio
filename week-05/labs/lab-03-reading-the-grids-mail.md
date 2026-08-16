@@ -326,37 +326,37 @@ I think the difference is that packet 14 was sent unencrypted in plaintext, whil
 
 ## Submission Checklist
 
-- [ ] Total packet count recorded with the filter bar empty (Part A, Step 1)
+- [x] Total packet count recorded with the filter bar empty (Part A, Step 1)
 
-- [ ] All five protocols listed (Part A, Step 2)
+- [x] All five protocols listed (Part A, Step 2)
 
-- [ ] Source, Destination, Protocol and Info columns each explained in your own words (Part A, Step 3)
+- [x] Source, Destination, Protocol and Info columns each explained in your own words (Part A, Step 3)
 
-- [ ] Workstation address identified with reasoning (Part A, Step 4)
+- [x] Workstation address identified with reasoning (Part A, Step 4)
 
-- [ ] `dns` filter applied; query and response packets identified by number (Part B, Steps 1–3)
+- [x] `dns` filter applied; query and response packets identified by number (Part B, Steps 1–3)
 
-- [ ] Hostname queried, IP address returned, and port number recorded (Part B, Steps 2–4)
+- [x] Hostname queried, IP address returned, and port number recorded (Part B, Steps 2–4)
 
-- [ ] Lab 01 comparison written (Part B, Step 5)
+- [x] Lab 01 comparison written (Part B, Step 5)
 
-- [ ] **REQUIRED:** `packet-dns-query.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part B, Step 6)
+- [x] **REQUIRED:** `packet-dns-query.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part B, Step 6)
 
-- [ ] `tcp.port == 443` filter applied; SYN, SYN-ACK and ACK identified by number *and* direction (Part C, Steps 1–2)
+- [x] `tcp.port == 443` filter applied; SYN, SYN-ACK and ACK identified by number *and* direction (Part C, Steps 1–2)
 
-- [ ] `http` filter applied; the remaining packet numbers recorded (Part C, Step 4)
+- [x] `http` filter applied; the remaining packet numbers recorded (Part C, Step 4)
 
-- [ ] Both port numbers recorded, server's port identified (Part C, Step 3)
+- [x] Both port numbers recorded, server's port identified (Part C, Step 3)
 
-- [ ] Packet 14's readable lines recorded, including the staff-code header and its exact value (Part C, Steps 5–6)
+- [x] Packet 14's readable lines recorded, including the staff-code header and its exact value (Part C, Steps 5–6)
 
-- [ ] **REQUIRED:** `packet-http-plaintext.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part C, Step 7)
+- [x] **REQUIRED:** `packet-http-plaintext.png` uploaded to `assets/screenshots/week-05/` and its filename recorded (Part C, Step 7)
 
-- [ ] Packet 10 opened and its contrast with packet 14 described (Part C, Step 8)
+- [x] Packet 10 opened and its contrast with packet 14 described (Part C, Step 8)
 
-- [ ] All four Analysis Questions answered (minimum sentence counts met)
+- [x] All four Analysis Questions answered (minimum sentence counts met)
 
-- [ ] This file is committed to your portfolio repo at `week-05/labs/lab-03-reading-the-grids-mail.md`
+- [x] This file is committed to your portfolio repo at `week-05/labs/lab-03-reading-the-grids-mail.md`
 
 ---
 
