@@ -2,7 +2,7 @@
 
 **Student Name:** Jocelyn Jackson
 
-**Date Completed:**
+**Date Completed:** 08/24/26
 
 **Module:** 2 — Networking & Cloud Foundations | **Week:** 6  
 **Submission Path:** `week-06/labs/lab-04-reading-the-blueprints.md`
